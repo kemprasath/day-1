@@ -1,0 +1,36 @@
+
+div {
+    width: 600px;
+    margin: auto;
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+
+
+  }
+.kem {
+    width : 600px;
+    margin : auto;
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+}
+span {
+    color: rgb(141, 246, 122);
+    font-weight: bold;
+}
+.dd {
+    color: #30a3d4;
+    font-weight: bold;
+}
+p.round {
+    border: 2px solid red;
+    border-radius: 12px;
+    padding: 6px;
+}
+p.round1{
+    outline-color: rgba(115, 222, 0, 0.856);
+    outline-style: dotted;
+}
+p.roumd2{
+    border-bottom: 2px solid blueviolet;
+    border-color: rgb(186, 182, 182);
+}
